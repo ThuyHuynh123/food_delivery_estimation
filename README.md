@@ -55,11 +55,10 @@ To predict how long a food delivery order will take — **from pickup to deliver
 
 ### 📈 Model Comparison
 
-**Linear Regression Result**
-![Linear Regression Result](images/linear_regression_result.png)
-
-**LightGBM (Fine-Tuned) Result**
-![LightGBM Result](images/lightgbm_result.png)
+<p align="center">
+  <img src="images/Linear_Regression.png" alt="Linear Regression Result" width="400" style="display: inline-block; margin-right: 10px;" />
+  <img src="images/light_GBM.png" alt="LightGBM Result" width="400" style="display: inline-block;" />
+</p>
 
 
 ---
