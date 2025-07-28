@@ -1,6 +1,7 @@
+<div style="background: linear-gradient(to right, #fceabb, #f8b500); padding: 25px; text-align: left; border-radius: 10px; color: black; font-size: 16px; line-height: 1.6;">
 # 🍔 Food Delivery Duration Estimation
 
-This project uses machine learning to predict food delivery times based on real-world data from [Kaggle](https://www.kaggle.com/datasets/).
+This project uses machine learning to predict food delivery times based on real-world data from [Kaggle]([https://www.kaggle.com/datasets/](https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset)).
 
 ## 🚀 Project Overview
 
@@ -38,3 +39,5 @@ Install all required libraries:
 
 ```bash
 pip install -r requirements.txt
+
+</div>
