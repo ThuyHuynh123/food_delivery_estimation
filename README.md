@@ -74,7 +74,7 @@ To predict how long a food delivery order will take — **from pickup to deliver
 
 ## 💡 Final Takeaways
 
-- LightGBM significantly outperformed other models with minimal tuning.
+- LightGBM outperformed other models with minimal tuning.
 - Traffic density, weather conditions, and delivery person ratings were key predictors.
 - Feature engineering (e.g., converting time-of-day and city types) played a crucial role.
 
