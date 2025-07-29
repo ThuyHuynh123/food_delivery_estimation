@@ -37,7 +37,7 @@ To predict how long a food delivery order will take — **from pickup to deliver
 
 ## 🔍 Dataset
 
-- **Source:** [Kaggle - Food Delivery Dataset](https://www.kaggle.com/)
+- **Source:** [Kaggle - Food Delivery Dataset](https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset)
 - **Size:** ~45,000 records
 - **Features Include:**
   - Order ID, Restaurant location
